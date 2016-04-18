@@ -15,7 +15,7 @@
 pod 'CMImagePicker'
 ```
 ### 其他方法
-* 下载文件包，将包（libs）拖入程序:
+* 下载文件包，将包（CMImagePicker）拖入程序:
 ```
 #import "CMImagePicker.h"
 ```
