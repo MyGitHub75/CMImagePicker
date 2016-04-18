@@ -71,7 +71,7 @@ pod 'CMImagePicker'
       didFinishSelectedImages:(NSArray<UIImage *> *)images
                selectedAssets:(NSArray<PHAsset *> *)selectedAssets {
 
-    // 记录图像，方便在 CollectionView 显示
+    // 记录图像，方便在 tableView 显示
     self.images = images;
     // 记录选中资源集合，方便再次选择照片定位
     self.selectedAssets = selectedAssets;
