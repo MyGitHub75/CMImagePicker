@@ -1,5 +1,11 @@
 # CMImagePicker
 简单快捷的图选择框架
+
+## 屏幕截图
+
+![](https://github.com/MyGitHub75/CMImagePicker/blob/master/%E6%88%AA%E5%9B%BE/1.gif?raw=true">)
+![](https://github.com/MyGitHub75/CMImagePicker/blob/master/%E6%88%AA%E5%9B%BE/2.gif?raw=true">)
+
 # 系统支持
 
 * iOS8+
